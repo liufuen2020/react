@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
         Hello World;
+        <a href='#/list'>list</a>
     </div>
   );
 }
